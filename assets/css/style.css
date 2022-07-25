@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+
+}
+
+#principal {
+
+    background-image: url(../img/img_luces-1.png);
+    background-size: cover;
+    height: 260px;
+    padding: 80px;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: rgb(240, 51, 254);
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+    font-size: 50px;
+    width: auto;
+    
+}
+
+#legal {
+    background-image: url(../img/img_luces1.jpg);
+    background-size: cover;
+    height:max-content;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.titulolegal {
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    -webkit-text-stroke-color: chartreuse;
+    -webkit-text-stroke-width: 2px;
+
+}
+.textolegal {
+    font-size: small;
+    color: greenyellow;
+    font-style: oblique;
+    text-align: justify;
+}
+#footer {
+    background-color: rgb(246, 97, 166);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.producto {
+    display:inline-block;
+    vertical-align: top;
+}
+
+.detalle {
+    padding-top: 70px;
+    padding-left: 300px;
+    display: inline-block;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    color: rgb(59, 156, 180);
+    -webkit-text-stroke:100%;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 3px;
+    text-align: center;
+}
+
+.item1 {
+    background-image: url(../img/img_luces-2.png);
+    background-size: cover;
+    height: 260px;
+    padding: 80px;
+}
+
+.item2 {
+    background-image: url(../img/img_luces-3.png);
+    background-size: cover;
+    height: 260px;
+    padding: 80px;
+}
+
+.item3 {
+    background-image: url(../img/img_luces-4.png);
+    background-size: cover;
+    height: 260px;
+    padding: 80px;
+}
+
+.item4 {
+    background-image: url(../img/img_luces-5.png);
+    background-size: cover;
+    height: 260px;
+    padding: 80px;
+}
